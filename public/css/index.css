@@ -1,3 +1,4 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
 :root {
     --text: #707070;
     --highlight: #FCC419;
@@ -73,6 +74,7 @@ body{
     text-align: center;
 }
 
+
 .qr img{
     height: 11em;
     width: 11em;
@@ -130,4 +132,30 @@ input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
+}
+
+/*-------------------------LOGIN PAGE------------------*/
+.r1_content{
+    padding: 15vh 5vw;
+    color: var(--text);
+    font-size: 22px;
+    text-align: left;
+}
+
+.headd{
+    font-size: 2.5em;
+    margin-top: -20px;
+    font-style: italic;
+}
+
+@media only screen and (max-width : 1050px){
+    .ldiv1{
+        display: none;
+    }
+    .r1_content{
+        padding: 15vh 10vw;
+        color: var(--text);
+        font-size: 22px;
+        text-align: left;
+    }
 }
