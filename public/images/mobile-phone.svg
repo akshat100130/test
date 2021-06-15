@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.832" height="27.479" viewBox="0 0 15.832 27.479">
+  <g id="mobile-phone" transform="translate(-108.5)">
+    <g id="Group_22" data-name="Group 22" transform="translate(108.5)">
+      <g id="Group_21" data-name="Group 21">
+        <path id="Path_372" data-name="Path 372" d="M122.32,0H110.513A2.015,2.015,0,0,0,108.5,2.013V25.466a2.015,2.015,0,0,0,2.013,2.013H122.32a2.015,2.015,0,0,0,2.013-2.013V2.013A2.015,2.015,0,0,0,122.32,0Zm1.208,21.843h-11.4a.4.4,0,1,0,0,.805h11.4v2.818a1.209,1.209,0,0,1-1.208,1.208H110.513a1.209,1.209,0,0,1-1.208-1.208V22.648h1.208a.4.4,0,1,0,0-.805h-1.208V4.025h14.222Zm0-18.623H109.305V2.013A1.209,1.209,0,0,1,110.513.805H122.32a1.209,1.209,0,0,1,1.208,1.208Z" transform="translate(-108.5 0)" fill="#fcc419"/>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24" transform="translate(116.014 1.61)">
+      <g id="Group_23" data-name="Group 23">
+        <path id="Path_373" data-name="Path 373" d="M250.513,30H248.9a.4.4,0,1,0,0,.805h1.61a.4.4,0,0,0,0-.805Z" transform="translate(-248.5 -30)" fill="#fcc419"/>
+      </g>
+    </g>
+    <g id="Group_26" data-name="Group 26" transform="translate(115.209 23.453)">
+      <g id="Group_25" data-name="Group 25">
+        <path id="Path_374" data-name="Path 374" d="M234.708,437a1.208,1.208,0,1,0,1.208,1.208A1.209,1.209,0,0,0,234.708,437Zm0,1.61a.4.4,0,1,1,.4-.4A.4.4,0,0,1,234.708,438.61Z" transform="translate(-233.5 -437)" fill="#fcc419"/>
+      </g>
+    </g>
+    <g id="Group_28" data-name="Group 28" transform="translate(114.458 2.383)">
+      <g id="Group_27" data-name="Group 27" transform="translate(0 0)">
+        <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="0.5" rx="0.5" transform="translate(0.042 -0.383)" fill="#fcc419"/>
+      </g>
+    </g>
+  </g>
+</svg>
