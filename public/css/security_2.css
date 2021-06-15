@@ -1,0 +1,169 @@
+:root {
+    --text: #707070;
+    --highlight: #FCC419;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Inter', sans-serif; */
+}
+span{
+    color: var(--highlight);
+}
+/*----------------------------- Left div --------------------------------  */
+
+/* ---------- INVENTEURS LOGO */
+.ldiv{
+    background-color: #FFFFFF;
+    height: 100vh;
+    position: relative;
+}
+
+.l_content{
+    padding: 5vh 4vw;
+}
+
+.l_logo img{
+    height: 4em;
+    width: 5.5em;
+}
+
+/*----------- AUTHERTICATOR LOGO */
+.g_logo{
+    margin-top: 6em;
+    color: var(--text);
+}
+
+.g_logo p{
+    font-size: 21px;
+}
+
+.g_logo img{
+    height: 3em;
+    width: 3em;
+}
+
+/*---------- INSTRUCTION LIST */
+
+.a_logo{
+    margin-top: 2em;
+    font-size: 15px;
+    color: var(--text);
+}
+
+.a_logo .steps_auth{
+    margin-top: 1em;
+}
+
+.a_logo img{
+    height: 4em;
+    width: 2em;
+}
+
+/*--------------- BIG LOGO */
+
+.big_logo{
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    /* opacity: 0; */
+}
+
+.big_logo img{
+    height: 350px;
+    width: 350px;
+}
+
+/* ---------------------------- Right div -------------------------------------*/
+.rdiv{
+    background-color:#f5f6f9;
+    height: 100vh;
+    position: relative;
+}
+
+.r_content{
+    padding: 30vh 10vw;
+    color: var(--text);
+    font-size: 22px;
+    text-align: center;
+}
+
+.code_input{
+    margin-top: 1em;
+}
+
+#sec-code{
+    font-size: 16px;
+    padding: 0.7em 1.5em;
+    border: none;
+    opacity: 0.4;
+    text-align: center;
+}
+
+.login_btn{
+    margin-top: 1em;
+}
+
+.login_btn button{
+    background-color: var(--highlight);
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 10px;
+    width: 16em;
+    height: 4em;
+    border-radius: 5px;
+    border: none;
+    /* outline: none; */
+}
+
+.footer{
+    position: absolute;
+    bottom: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+}
+.footer .row{
+    padding: 0 40px;
+}
+.footer a{
+    color: var(--text);
+    text-decoration: none;
+}
+.footer a:hover{
+    color: var(--highlight)
+
+}
+
+@media only screen and (max-width: 900px){
+    .big_logo{
+        display: none;
+    }
+    .steps_auth .col-6{
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (max-width: 425px){
+    .ldiv{
+        height: 75vh;
+    }
+    .rdiv{
+        height: 80vh;
+    }
+    .r_content{
+        padding: 20vh 10vw;
+    }
+}
+
+
+
+/*---------------------------------- FOR NUMBER INPUTS */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

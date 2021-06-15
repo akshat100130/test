@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.589" height="24.404" viewBox="0 0 18.589 24.404">
+  <g id="google-forms" transform="translate(-61)">
+    <path id="Path_355" data-name="Path 355" d="M79.38,5.929,73.66.209A.72.72,0,0,0,73.155,0H63.145A2.147,2.147,0,0,0,61,2.145V22.26A2.147,2.147,0,0,0,63.145,24.4h14.3a2.147,2.147,0,0,0,2.145-2.145V6.435A.722.722,0,0,0,79.38,5.929ZM73.87,2.441,77.148,5.72H74.585A.716.716,0,0,1,73.87,5Zm3.575,20.533h-14.3a.716.716,0,0,1-.715-.715V2.145a.716.716,0,0,1,.715-.715H72.44V5A2.147,2.147,0,0,0,74.585,7.15h3.575V22.26A.716.716,0,0,1,77.444,22.975Z" transform="translate(0 0)" fill="#fcc419"/>
+    <path id="Path_356" data-name="Path 356" d="M188.865,242h-7.15a.715.715,0,0,0,0,1.43h7.15a.715.715,0,0,0,0-1.43Z" transform="translate(-114.28 -230.465)" fill="#fcc419"/>
+    <path id="Path_357" data-name="Path 357" d="M188.865,302h-7.15a.715.715,0,0,0,0,1.43h7.15a.715.715,0,0,0,0-1.43Z" transform="translate(-114.28 -287.605)" fill="#fcc419"/>
+    <path id="Path_358" data-name="Path 358" d="M188.865,362h-7.15a.715.715,0,0,0,0,1.43h7.15a.715.715,0,0,0,0-1.43Z" transform="translate(-114.28 -344.745)" fill="#fcc419"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="0.5" cy="0.5" r="0.5" transform="translate(64 12)" fill="#fcc419"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="0.5" cy="1" rx="0.5" ry="1" transform="translate(64 14)" fill="#fcc419"/>
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="0.5" cy="1" rx="0.5" ry="1" transform="translate(64 17)" fill="#fcc419"/>
+  </g>
+</svg>
